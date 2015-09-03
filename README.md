@@ -11,10 +11,14 @@ Processor:          x64-based
 
 Toolchain -
 IDE:            CLion 1.1
+
 Compiler:       GCC/G++
+
 Terminal:       Cygwin64
+
 Build Manager:  CMake 3.3
                 make
+
 Debugger:       GDB 7.8
 
 This program essentially calculates the area of a triangle in three-dimensional space.
